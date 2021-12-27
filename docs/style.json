@@ -4,12 +4,12 @@
     17.53,
     38.1
   ],
-  "zoom": 2.8,
+  "zoom": 1,
   "sources": {
     "relief": {
       "type": "raster",
       "minzoom": 0,
-      "maxzoom": 2,
+      "maxzoom": 5,
       "tileSize": 512,
       "tiles": [
         "https://geoservices.un.org/arcgis/rest/services/ClearMap_WebPlain/MapServer/tile/{x}/{y}/{z}"
