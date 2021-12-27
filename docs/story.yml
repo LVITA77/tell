@@ -8,13 +8,13 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   car:
     center: [21.91, 7.71]
-    zoom: 2.84
+    zoom: 4.84
   lakes:
     center: [33.9, -3.15]
-    zoom: 2.84
+    zoom: 4.84
   haiti:
     center: [-73.73, 19.25]
-    zoom: 2.34
+    zoom: 4.34
 chapters: 
   - id: c1
     alignment: right
