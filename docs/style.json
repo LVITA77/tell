@@ -9,7 +9,7 @@
     "relief": {
       "type": "raster",
       "minzoom": 0,
-      "maxzoom": 5,
+      "maxzoom": 2,
       "tileSize": 512,
       "tiles": [
         "https://geoservices.un.org/arcgis/rest/services/ClearMap_WebPlain/MapServer/tile/{x}/{y}/{z}"
